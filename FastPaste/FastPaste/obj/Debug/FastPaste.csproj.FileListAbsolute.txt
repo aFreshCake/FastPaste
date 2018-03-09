@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\bin\Debug\FastPaste.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\bin\Debug\FastPaste.exe
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\bin\Debug\FastPaste.pdb
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\obj\Debug\FastPaste.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\obj\Debug\FastPaste.FastPaste.resources
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\obj\Debug\FastPaste.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\obj\Debug\FastPaste.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\obj\Debug\FastPaste.exe
+c:\users\asus\documents\visual studio 2017\Projects\FastPaste\FastPaste\obj\Debug\FastPaste.pdb
